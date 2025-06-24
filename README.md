@@ -1,4 +1,10 @@
-﻿# My First Git Repo
+java -version
+java version "24.0.1" 2025-04-15
+Java(TM) SE Runtime Environment (build 24.0.1+9-30)
+Java HotSpot(TM) 64-Bit Server VM (build 24.0.1+9-30, mixed mode, sharing)
+ 
+ 
+ # My First Git Repo
 
 PS C:\workspace\gradle\TcpServerExample> ./gradlew clean build
 WARNING: A restricted method in java.lang.System has been called
